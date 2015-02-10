@@ -1,0 +1,28 @@
+h1 {
+
+	text-align: center;
+	color: red;
+	font-family: "serif", Times, Georgia;
+}
+html {
+
+	background-color: yellow;
+}
+p {
+
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+table.center {
+
+	margin-left: auto;
+	margin-right: auto;
+}
+ul {
+
+	
+}
+h2 {
+
+	text-align: center;
+}
